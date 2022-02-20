@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Powell Granger
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in new technologies, programming languages, hiking, swimming and tennis.
+- 🌱 I’m currently learning Blockchain technology and fell down the web3 rabbit hole
+- 💞️ ’m looking to work on web3 and collaborate on expanding the reach of blockchain knowledge and usage
 - 📫 How to reach me ...
 
 <!---
